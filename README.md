@@ -43,3 +43,6 @@ Sno|Places|when to go
 -----|----|----
 1|Paris|graduation
 2|Italy|graduation
+
+🌞
+![jog Falls](https://newskarnataka.com/storage/photos/shares/jog_M_2482020.jpg)
